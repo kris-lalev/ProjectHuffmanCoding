@@ -1,0 +1,2 @@
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\Debug\HuffmanAlgorithm.exe
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\Debug\HuffmanAlgorithm.pdb

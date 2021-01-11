@@ -18,5 +18,13 @@
     <ClCompile Include="HuffmanAlgorithm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="huffman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="huffman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
