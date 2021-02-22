@@ -1,6 +1,8 @@
-﻿  huffman.cpp
-C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(263,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(306,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(311,21): warning C4018: '<': signed/unsigned mismatch
+﻿  HuffmanAlgorithm.cpp
+  huffman.cpp
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\huffman.cpp(289,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   HuffmanAlgorithm.vcxproj -> C:\Users\Kris_2020\source\repos\ProjectHuffmanCoding\HuffmanAlgorithm\Debug\HuffmanAlgorithm.exe

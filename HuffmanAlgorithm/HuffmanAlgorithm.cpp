@@ -36,7 +36,8 @@ int main(int argc, char* argv[]) {
 		catch (invalid_argument& e)
 		{
 			cerr << e.what() << endl;
-			return -1;}
+			return -1;
+		}
 	}
 	else if ((argv[1][0] == '-') && (argv[1][1] == 'd'))
 	{

@@ -80,15 +80,15 @@ huffman::huffman(string in, string out)
 	in_file_name = in;
 	out_file_name = out;
 	in_file.open(in_file_name, ios::in | ios::binary);
-	out_file.open(in_file_name, ios::in | ios::binary);
-	if(!in_file.is_open() || !in_file.is_open())
+	//out_file.open(in_file_name, ios::in | ios::binary);
+	if(!in_file.is_open() /*|| !in_file.is_open()*/)
 	{
 		
 		throw invalid_argument("One or both files do not exist!");
 	}
 
 	in_file.close();
-	out_file.close();
+	//out_file.close();
 	create_node_array();
 }
 
